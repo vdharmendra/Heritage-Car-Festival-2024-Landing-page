@@ -23,7 +23,7 @@
   <li>desgin in Abode XD</li>
 </ul>
 <br>
-<span>Desktop Desgin</span>
+<span>Desktop Desgin</span><br/>
 <a href="https://www.behance.net/gallery/211769649/Heritage-Car-Festival-2024-Landing-page" target="_blank" >
 <img src="./img/Car-fest-events-landing-page-landing-page.gif" alt="Pharma-Tech-landing-page" width="575px" />
 </a>
